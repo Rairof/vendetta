@@ -198,7 +198,10 @@
       "YELLOW_860": "#f6c177",
       "YELLOW_900": "#f6c177",
       "WHITE_500": "#e0def4"
-   },
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1015239452739764227/1167600647990947972/2f9ceF.png"
+    },
    "plus":{
        "version":"0",
        "customOverlays": true,
