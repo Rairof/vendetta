@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/rose-pine/discord-mobile/main/rosepinedawn.jso
 7. Restart discord
 
 > [!IMPORTANT]
-> These steps will work foe Vendetta (and forks) and Enmity
+> These steps will work for Vendetta (and forks) and Enmity
 
 > [!NOTE]
 > This theme has custom icon colours and can be used with iconpacks by following this guide.
